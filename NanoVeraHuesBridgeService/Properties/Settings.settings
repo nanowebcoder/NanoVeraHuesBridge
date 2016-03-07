@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NanoVeraHuesBridgeService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MulticastIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">239.255.255.250</Value>
+    </Setting>
+    <Setting Name="MulticastPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1900</Value>
+    </Setting>
+    <Setting Name="LocalIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.10.1.26</Value>
+    </Setting>
+    <Setting Name="LocalPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="UniqueID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">aef85303-330a-4eab-b28d-038ac90416ab</Value>
+    </Setting>
+    <Setting Name="DefaultIntensity" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="RespondToSSDP" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
