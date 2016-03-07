@@ -1,0 +1,136 @@
+[{
+        "id": "98e9445d-5645-4d41-9edc-a7b3742a483a",
+        "name": "Family Room Sonos",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=19&serviceId=urn:micasaverde-com:serviceId:MediaNavigation1&action=Stop",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=19&serviceId=urn:micasaverde-com:serviceId:Sonos1&Volume=50&action=PlayURI&URIToPlay=pndrradio-http%3A%2F%2Faudio-ch1-t1-2-v4v6.pandora.com%2Faccess%2F1482485880676742712%3Fversion%3D4%26lid%3D297952222%26token%3D0lzKBEsird6Tnu1bwjVgNWDNSxXAJ1fcM%252F4ArMXBlE9aEcPsTQFQsxps0RkaLQMsnmrMNsCdNneCaWCS6M2nlt3hE5GV%252B97Ytu5WAQlvX6iEFi2qf0eqJoQRju475OAhAthqGv3cCPsFcHVrZVQoGC80ZN9NmIdwXBznXZOyU4QhBr0d1pdw9pvh3%252BoOX2VOVbkRxMTWSSrXBwj5C1Yie0ghhrNdoUMVTpNPDRYCYbim7XHw%252BnGZ4cnffK%252Bz%252BmJryKUP3%252FepHP0up7gm0O1zJryNms0mOBgIwGhV9DOvU4rzYGo%252B1uWY85B2Ei5EJFOQN5zO9Ev9Y32KRrrIq9hqMIGg%252FCIIWET3PCt3kQyG2AXxomie2bRILKodKv3SBaUhP%252FEpVwczVjc%253D%26a%3Dhttp%253a%252f%252fcont-1.p-cdn.com%252fimages%252fpublic%252frovi%252falbumart%252f6%252f2%252f7%252f0%252f075679340726_500W_500H.jpg%26m%3D50c08cc6e679356021688bc7a5a85e39cfe4634c624f00da5bfdff97b7f3fbf5908306de128aacbd3a064ab30310675e3c6796c0dac116e013c66fc676033061%26f%3D1%26r%3D1%26g%3D-5.98%26x%3D000a73ba",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "74c9265a-a7b0-4ae8-bbac-d4fec68ddff7",
+        "name": "Garage Sonos",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=18&serviceId=urn:micasaverde-com:serviceId:MediaNavigation1&action=Stop",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=18&serviceId=urn:micasaverde-com:serviceId:Sonos1&Volume=50&action=PlayURI&URIToPlay=pndrradio-http%3A%2F%2Faudio-ch1-t1-2-v4v6.pandora.com%2Faccess%2F1482485880676742712%3Fversion%3D4%26lid%3D297952222%26token%3D0lzKBEsird6Tnu1bwjVgNWDNSxXAJ1fcM%252F4ArMXBlE9aEcPsTQFQsxps0RkaLQMsnmrMNsCdNneCaWCS6M2nlt3hE5GV%252B97Ytu5WAQlvX6iEFi2qf0eqJoQRju475OAhAthqGv3cCPsFcHVrZVQoGC80ZN9NmIdwXBznXZOyU4QhBr0d1pdw9pvh3%252BoOX2VOVbkRxMTWSSrXBwj5C1Yie0ghhrNdoUMVTpNPDRYCYbim7XHw%252BnGZ4cnffK%252Bz%252BmJryKUP3%252FepHP0up7gm0O1zJryNms0mOBgIwGhV9DOvU4rzYGo%252B1uWY85B2Ei5EJFOQN5zO9Ev9Y32KRrrIq9hqMIGg%252FCIIWET3PCt3kQyG2AXxomie2bRILKodKv3SBaUhP%252FEpVwczVjc%253D%26a%3Dhttp%253a%252f%252fcont-1.p-cdn.com%252fimages%252fpublic%252frovi%252falbumart%252f6%252f2%252f7%252f0%252f075679340726_500W_500H.jpg%26m%3D50c08cc6e679356021688bc7a5a85e39cfe4634c624f00da5bfdff97b7f3fbf5908306de128aacbd3a064ab30310675e3c6796c0dac116e013c66fc676033061%26f%3D1%26r%3D1%26g%3D-5.98%26x%3D000a73ba",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "4c89a2bf-1dc9-4429-b211-cc0d8141de3b",
+        "name": "Sonos ODK",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=88&serviceId=urn:micasaverde-com:serviceId:MediaNavigation1&action=Stop",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=88&serviceId=urn:micasaverde-com:serviceId:Sonos1&Volume=50&action=PlayURI&URIToPlay=pndrradio-http%3A%2F%2Faudio-ch1-t1-2-v4v6.pandora.com%2Faccess%2F1482485880676742712%3Fversion%3D4%26lid%3D297952222%26token%3D0lzKBEsird6Tnu1bwjVgNWDNSxXAJ1fcM%252F4ArMXBlE9aEcPsTQFQsxps0RkaLQMsnmrMNsCdNneCaWCS6M2nlt3hE5GV%252B97Ytu5WAQlvX6iEFi2qf0eqJoQRju475OAhAthqGv3cCPsFcHVrZVQoGC80ZN9NmIdwXBznXZOyU4QhBr0d1pdw9pvh3%252BoOX2VOVbkRxMTWSSrXBwj5C1Yie0ghhrNdoUMVTpNPDRYCYbim7XHw%252BnGZ4cnffK%252Bz%252BmJryKUP3%252FepHP0up7gm0O1zJryNms0mOBgIwGhV9DOvU4rzYGo%252B1uWY85B2Ei5EJFOQN5zO9Ev9Y32KRrrIq9hqMIGg%252FCIIWET3PCt3kQyG2AXxomie2bRILKodKv3SBaUhP%252FEpVwczVjc%253D%26a%3Dhttp%253a%252f%252fcont-1.p-cdn.com%252fimages%252fpublic%252frovi%252falbumart%252f6%252f2%252f7%252f0%252f075679340726_500W_500H.jpg%26m%3D50c08cc6e679356021688bc7a5a85e39cfe4634c624f00da5bfdff97b7f3fbf5908306de128aacbd3a064ab30310675e3c6796c0dac116e013c66fc676033061%26f%3D1%26r%3D1%26g%3D-5.98%26x%3D000a73ba",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "6dfe2994-83de-4b22-9580-cb0b625d62fc",
+        "name": "Bathroom Sonos",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=17&serviceId=urn:micasaverde-com:serviceId:MediaNavigation1&action=Stop",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=17&serviceId=urn:micasaverde-com:serviceId:Sonos1&action=PlayURI&URIToPlay=FR:WGCU-FM&Volume=40",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "8510cf26-fef9-44ab-beba-7ac1f173d8bb",
+        "name": "Office Sonos",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=4&serviceId=urn:micasaverde-com:serviceId:MediaNavigation1&action=Stop",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=lu_action&output_format=json&DeviceNum=4&serviceId=urn:micasaverde-com:serviceId:Sonos1&action=PlayURI&URIToPlay=FR:WGCU-FM&Volume=40",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "2e42f7b9-b5c3-4c4b-bd11-1252e23c790b",
+        "name": "Small Garage Door Lock",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=82&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=0",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=82&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=1",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "2ea9366f-8885-4b5b-b3e0-46a815979fe8",
+        "name": "Main Garage Door Lock",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=81&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=0",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=81&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=1",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "67928ce2-e157-4637-b98d-37b030de01e7",
+        "name": "Laundry Room Lock",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=34&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=0",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&DeviceNum=34&serviceId=urn:micasaverde-com:serviceId:DoorLock1&action=SetTarget&newTargetValue=1",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "b56c8efa-5a1a-4fd4-bf0e-c0ae3d8235a7",
+        "name": "Kitchen Lights",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=0&DeviceNum=33",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&DeviceNum=33&serviceId=urn:upnp-org:serviceId:Dimming1&action=SetLoadLevelTarget&newLoadlevelTarget=${intensity.percent}",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "267b1192-981b-4b71-a5bf-898bb7d7a1aa",
+        "name": "Office Lights",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=0&DeviceNum=86",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&DeviceNum=86&serviceId=urn:upnp-org:serviceId:Dimming1&action=SetLoadLevelTarget&newLoadlevelTarget=${intensity.percent}",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "60aa4ff4-e2c0-4342-929f-befa4f0911f0",
+        "name": "Foyer Lights",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=0&DeviceNum=85",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&DeviceNum=85&serviceId=urn:upnp-org:serviceId:Dimming1&action=SetLoadLevelTarget&newLoadlevelTarget=${intensity.percent}",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "0a0e68c6-848a-4270-b1f4-d8113640754b",
+        "name": "TV",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=ir&action=button&device=60&code=C=3&codeset=5",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=ir&action=button&device=60&code=C=2&codeset=5",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "dd131b88-1236-430a-b57b-11ad3770be30",
+        "name": "Direct TV",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.201:8080/remote/processKey?key=poweroff&hold=keyPress",
+        "onUrl": "http://10.10.1.201:8080/remote/processKey?key=poweron&hold=keyPress",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "2b44f25e-fbe8-4a36-9d56-3cb52449c853",
+        "name": "Stairway Lights",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=0&DeviceNum=84",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&DeviceNum=84&serviceId=urn:upnp-org:serviceId:Dimming1&action=SetLoadLevelTarget&newLoadlevelTarget=${intensity.percent}",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }, {
+        "id": "60b2a047-a7f1-4278-a6ee-a2a6ccb742a8",
+        "name": "Hallway Lights",
+        "deviceType": "switch",
+        "offUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=0&DeviceNum=87",
+        "onUrl": "http://10.10.1.91:3480/data_request?id=action&output_format=json&serviceId=urn:upnp-org:serviceId:SwitchPower1&action=SetTarget&newTargetValue=1&DeviceNum=87",
+        "httpVerb": null,
+        "contentType": null,
+        "contentBody": null
+    }]
