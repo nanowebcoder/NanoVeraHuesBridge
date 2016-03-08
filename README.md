@@ -10,5 +10,6 @@ It stores its configuration in a plain text file, which makes it easier to maint
 
 Finally, it uses nLog for logging, and out of the box will write a rolling set of plain text log files, although nLog will allow practically any log file output needed.
 
-**Getting Started**  If you want to jump right in, the folder called Setup contains three files that will you get up and going right away.  
+**Getting Started**  
+If you want to jump right in, the folder called Setup contains three files that will you get up and going right away.  The setup.exe will install the necessary files and the PDF entitled, Getting Started with Nano Vera Hues Bridge, will walk you through instllation and configuration.
 
