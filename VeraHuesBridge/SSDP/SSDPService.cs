@@ -66,6 +66,13 @@ namespace VeraHuesBridge
             {
                 logger.Info("Starting SSDP Service on IP [{0}], port [{1}]...", MulticastIP, MulticastPort);
                 MulticastClient = new UdpClient(MulticastPort);
+
+                //patch for Issue #12 from gibman to allow non-exclusive use of the port
+                MulticastClient.Client.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ExclusiveAddressUse, false);
+                MulticastClient.Client.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.ReuseAddress, true);
+
+
+
                 IPAddress ipSSDP = IPAddress.Parse(MulticastIP);
 
                 logger.Info("Joining multicast group on IP [{0}]...", MulticastLocalIP);
@@ -161,7 +168,7 @@ namespace VeraHuesBridge
         {
             logger.Info("Testing if message is SSDP Discovery Packet...");
             logger.Debug("Examing message [{0}]", message);
-            if (message != null && message.StartsWith("M-SEARCH * HTTP/1.1") && message.Contains("MAN: \"ssdp:discover\""))
+            if (message != null && message.ToUpper().StartsWith("M-SEARCH * HTTP/1.1") && message.ToLower().Contains("ssdp:discover"))
             {
                 logger.Info("SSDP Discovery Packet detected.");
                 return true;
